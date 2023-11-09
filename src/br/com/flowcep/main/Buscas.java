@@ -19,7 +19,7 @@ import java.util.Scanner;
 public class Buscas {
     public static void main(String[] args) throws IOException, InterruptedException {
         Scanner leitor = new Scanner(System.in);
-        System.out.println("Bem vindo ao Flow Cep, seu buscador de cep");
+        System.out.println("Bem vindo ao LocalizaCep, seu buscador de cep");
         Gson gson = new GsonBuilder().setPrettyPrinting().create();
         List<String> listaDeCep = new ArrayList<>();
         String buscaCep = "";
