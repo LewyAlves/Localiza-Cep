@@ -1,7 +1,7 @@
-package br.com.flowcep.main;
+package br.com.localizacep.main;
 
-import br.com.flowcep.modelo.EnderecamentoPostal;
-import br.com.flowcep.record.ViaCep;
+import br.com.localizacep.modelo.EnderecamentoPostal;
+import br.com.localizacep.record.ViaCep;
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
 import com.google.gson.JsonSyntaxException;

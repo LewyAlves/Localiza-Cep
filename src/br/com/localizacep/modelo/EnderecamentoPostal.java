@@ -1,6 +1,6 @@
-package br.com.flowcep.modelo;
+package br.com.localizacep.modelo;
 
-import br.com.flowcep.record.ViaCep;
+import br.com.localizacep.record.ViaCep;
 
 public class EnderecamentoPostal {
     private String estado;
